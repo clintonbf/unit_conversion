@@ -7,7 +7,7 @@ long_description = (here / 'README.md').read_text(encoding='utf-8')
 package_dir = 'unit_conversion'
 
 setup(
-    name='unitconversions',
+    name='unitconversion',
     version="0.0.1",
     description="a package for converting units",
     long_description=long_description,
